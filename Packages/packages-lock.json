@@ -71,9 +71,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.director": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -94,7 +94,7 @@
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0"
       },
-      "hash": "8cc7c5d4b64983f02451298e2cea7e486bdc9032"
+      "hash": "1c682ec0d12a9616930a6a26deb583bb85ab166e"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
